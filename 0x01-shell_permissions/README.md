@@ -1,1 +1,1 @@
-script that sets the permission to others except the owner and group
+script that sets the mode of the file
